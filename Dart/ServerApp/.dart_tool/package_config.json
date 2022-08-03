@@ -1,0 +1,32 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "http_server",
+      "rootUri": "file:///Users/zhoushaoting/.pub-cache/hosted/pub.dartlang.org/http_server-0.9.8+3",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "mime",
+      "rootUri": "file:///Users/zhoushaoting/.pub-cache/hosted/pub.dartlang.org/mime-0.9.7",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///Users/zhoushaoting/.pub-cache/hosted/pub.dartlang.org/path-1.8.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "ServerApp",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    }
+  ],
+  "generated": "2022-08-03T12:05:59.725217Z",
+  "generator": "pub",
+  "generatorVersion": "2.16.1"
+}

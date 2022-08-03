@@ -1,0 +1,17 @@
+time：2022-08-03T20:06:41.948461
+user-agent：Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15 
+connection：keep-alive 
+accept：text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8 
+accept-language：zh-CN,zh-Hans;q=0.9 
+accept-encoding：gzip, deflate 
+host：localhost:8080 
+upgrade-insecure-requests：1 
+
+time：2022-08-03T20:06:41.993633
+user-agent：Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15 
+connection：keep-alive 
+accept：*/* 
+accept-language：zh-CN,zh-Hans;q=0.9 
+accept-encoding：gzip, deflate 
+host：localhost:8080 
+referer：http://localhost:8080/ 

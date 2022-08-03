@@ -1,0 +1,7 @@
+name: ServerApp
+description: A new Flutter project.
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+
+dev_dependencies:
+  http_server: ^0.9.8+3
