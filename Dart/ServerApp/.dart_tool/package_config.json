@@ -3,19 +3,25 @@
   "packages": [
     {
       "name": "http_server",
-      "rootUri": "file:///Users/zhoushaoting/.pub-cache/hosted/pub.dartlang.org/http_server-0.9.8+3",
+      "rootUri": "file:///Users/zhoushaoting/.pub-cache/hosted/pub.flutter-io.cn/http_server-0.9.8+3",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    },
+    {
+      "name": "logging",
+      "rootUri": "file:///Users/zhoushaoting/.pub-cache/hosted/pub.flutter-io.cn/logging-0.11.4",
       "packageUri": "lib/",
       "languageVersion": "2.0"
     },
     {
       "name": "mime",
-      "rootUri": "file:///Users/zhoushaoting/.pub-cache/hosted/pub.dartlang.org/mime-0.9.7",
+      "rootUri": "file:///Users/zhoushaoting/.pub-cache/hosted/pub.flutter-io.cn/mime-0.9.7",
       "packageUri": "lib/",
       "languageVersion": "2.0"
     },
     {
       "name": "path",
-      "rootUri": "file:///Users/zhoushaoting/.pub-cache/hosted/pub.dartlang.org/path-1.8.2",
+      "rootUri": "file:///Users/zhoushaoting/.pub-cache/hosted/pub.flutter-io.cn/path-1.8.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -26,7 +32,7 @@
       "languageVersion": "2.10"
     }
   ],
-  "generated": "2022-08-03T12:05:59.725217Z",
+  "generated": "2022-08-04T03:56:06.895212Z",
   "generator": "pub",
   "generatorVersion": "2.16.1"
 }

@@ -5,30 +5,38 @@
         <entry key="http_server">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/http_server-0.9.8+3/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/http_server-0.9.8+3/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="logging">
+          <value>
+            <list>
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/logging-0.11.4/lib" />
             </list>
           </value>
         </entry>
         <entry key="mime">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/mime-0.9.7/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/mime-0.9.7/lib" />
             </list>
           </value>
         </entry>
         <entry key="path">
           <value>
             <list>
-              <option value="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/path-1.8.2/lib" />
+              <option value="$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/path-1.8.2/lib" />
             </list>
           </value>
         </entry>
       </option>
     </properties>
     <CLASSES>
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/http_server-0.9.8+3/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/mime-0.9.7/lib" />
-      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/path-1.8.2/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/http_server-0.9.8+3/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/logging-0.11.4/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/mime-0.9.7/lib" />
+      <root url="file://$USER_HOME$/.pub-cache/hosted/pub.flutter-io.cn/path-1.8.2/lib" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
