@@ -18,3 +18,4 @@
 
 [ 数据结构-严蔚敏/清华大学（完）:B站课程 ]( https://www.bilibili.com/video/av45897783/?spm_id_from=333.788.videocard.5 )    <br/>
 
+[ nginx学习 ]( https://github.com/pheromone/backEnd-learn/blob/master/nginx_learn.md )    <br/>
