@@ -1,6 +1,9 @@
 ## nginx
 Nginx (engine x) 是一个高性能的HTTP和反向代理web服务器，同时也提供了IMAP/POP3/SMTP服务。<br/>
 [ 百度百科-Nginx ]( https://baike.baidu.com/item/nginx/3817705?fr=aladdin )    <br/>
+[ nginx-tutorial ]( https://github.com/dunwu/nginx-tutorial)    <br/>
+
+
 
 ## 安装nginx  <br/>
 1、`xcode-select --install`   <br/>
