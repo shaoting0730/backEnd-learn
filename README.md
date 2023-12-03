@@ -1,13 +1,13 @@
 ### Dart
    [ 用Dart开发服务器教程 ]( https://www.jianshu.com/p/c01c6e145373 )    <br/>
-   [ 用Dart开发服务器教程-源码 ]( https://github.com/pheromone/backEnd-learn/tree/master/Dart )    <br/>
+   [ 用Dart开发服务器教程-源码 ]( https://github.com/shaoting0730/backEnd-learn/tree/master/Dart )    <br/>
    [ Dart Frog ]( https://dartfrog.vgv.dev/ )    <br/>
 
 
 ### Node.js学习
 链接: https://pan.baidu.com/s/1axsr9fwCDs_4ju1lO-yhuw 提取码: t4ku   <br/>
    [ nodejs学习路线 ]( https://mp.weixin.qq.com/s/XkDDiJF-jLBl6XAx4Xl92Q )    <br/>
-   [ nodejs学习历程 ]( https://github.com/pheromone/nodejs_learn/tree/master )    <br/>
+   [ nodejs学习历程 ]( https://github.com/shaoting0730/nodejs_learn/tree/master )    <br/>
   
    
 ###  Koa2学习视频
@@ -20,4 +20,4 @@
 [ 数据结构-严蔚敏/清华大学（完）:B站课程 ]( https://www.bilibili.com/video/av45897783/?spm_id_from=333.788.videocard.5 )    <br/>
 
 ### nginx学习
-[ nginx学习 ]( https://github.com/pheromone/backEnd-learn/blob/master/nginx_learn.md )    <br/>
+[ nginx学习 ]( https://github.com/shaoting0730/backEnd-learn/blob/master/nginx_learn.md )    <br/>
